@@ -9,9 +9,9 @@
  <br>
 </ul>
 
-<h3> ❣SPECIAL THANKS TO <a href="https://youtu.be/PPwR7h5SnOE">SIMONDEV YOUTUBE CHANNEL</a> TO HELP ME LEARN THE CODE❣</h3>
+<h4> ❣SPECIAL THANKS TO <a href="https://youtu.be/PPwR7h5SnOE">SIMONDEV YOUTUBE CHANNEL</a> TO HELP ME LEARN THE CODE❣</h4>
 
-<h3>❣WATCH THE DEPLOYED VERSION ON https://yakshit-22.github.io/3D_WORLD/❣</h3>
+<h4>❣WATCH THE DEPLOYED VERSION ON https://yakshit-22.github.io/3D_WORLD/❣</h4>
 
 ### Feel Free To Fork This Repo.(●'◡'●) And Please Support Me By Giving Star..🎇
 
